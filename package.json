@@ -55,7 +55,11 @@
     "linkify-react": "^4.4.0",
     "linkifyjs": "^4.4.0",
     "lucide-react": "^1.55.0",
+<<<<<<< HEAD
     "next": "^16.4.5",
+=======
+    "next": "16.4.1",
+>>>>>>> 394f5ddc7633cfcb04ca3a5f230f8a2af55c3499
     "next-intl": "^4.14.9",
     "opus-recorder": "^8.0.5",
     "react": "19.2.4",
